@@ -1,0 +1,9 @@
+---
+title: "Yining_review_of_Sam's"
+output: pdf_document
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+---
+
+I liked how you approached the assignment. The logic and functions are easy to follow, and the layout of the script is very clear and well-organized. 
+
+One small suggestion would be to simplify the outputs included in the knitted pdf file so that it is easier to go through all the information. Apart from that, I think you did a very good job. 
